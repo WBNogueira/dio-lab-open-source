@@ -22,8 +22,6 @@ Olá! Sou o Wagner um garoto de 64 anos apaixonado pela programação desde a d�
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WBNogueira&repo=js-developer-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WBNogueira/js-developer-portfolio)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WBNogueira&repo=Relatorio_Vendas_e_Lucro_Power-BI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WBNogueira/Relatorio_Vendas_e_Lucro_Power-BI)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WBNogueira&repo=Transfer_Learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WBNogueira/Transfer_Learning)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WBNogueira&repo=evolucao_covid19_brasil&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WBNogueira/evolucao_covid19_brasil)
